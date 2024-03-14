@@ -1,0 +1,24 @@
+const contracts = {
+    token: {
+        56: '0xD0586F014F3d3896cC6bd3f7892BDcF139ffd700',
+        97: '0x9E2Fe9c9A2046cEC307367CBf7e586bB2457E66B'
+    },
+    nft: {
+        56: '0xD0586F014F3d3896cC6bd3f7892BDcF139ffd700',
+        97: '0x2d1e20895041ABeC94840f7aD589a77Cc99E406b'
+    },
+    tokenStake: {
+        56: '0xD0586F014F3d3896cC6bd3f7892BDcF139ffd700',
+        97: '0xCffbb77fE29A378e59F6CA75452230EB55157F12'
+    },
+    nftStake: {
+        56: '0xD0586F014F3d3896cC6bd3f7892BDcF139ffd700',
+        97: '0x2dEca73F523975f47E0E99798045bF18bD777d0d'
+    },
+    nftSale: {
+        56: '0xa6a42699cF7903D45b9DD5eCa9C9CeFEaf6deF77',
+        97: '0x26fA33A98aD16Ba1Ee86a91E40e1A54a138e4131'
+    }
+};
+
+97 = TESTNET
